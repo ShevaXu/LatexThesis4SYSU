@@ -1,0 +1,10 @@
+## Ignore Latex build files and results
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.gz
+*.thm
+*.toc
